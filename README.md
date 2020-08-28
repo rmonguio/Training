@@ -1,3 +1,3 @@
 # Training
 
-# Learning commmits
+# Learning commits
